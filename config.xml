@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!-- <widget xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" id="jp.co.apicetec.merciamanProd" version="1.0.1"> -->
 <!-- <widget xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" id="jp.co.apical.merciaman.ios.prod" version="1.0.4" ios-CFBundleVersion="1.0.4.3"> -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" id="jp.co.apical.merciaman.android.dev" version="1.0.4" ios-CFBundleVersion="1.0.4.3">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" id="jp.co.apical.merciaman.android.dev" version="1.0.4" ios-CFBundleVersion="1.0.4.4">
   <name>Merci Maman</name>
   <description>Made with Monaca (http://monaca.mobi)</description>
   <author/>
